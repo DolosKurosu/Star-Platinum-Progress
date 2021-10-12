@@ -13,8 +13,3 @@
 - Level-Up Learnsets
 - TM Learnsets
 - Move Edits
-
-## ASM/Hex Work
-
-- Individual Mart Setups
-- Infinite TMs
