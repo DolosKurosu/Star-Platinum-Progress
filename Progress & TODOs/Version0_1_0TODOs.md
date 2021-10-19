@@ -2,7 +2,6 @@
 
 ## DSPRE Work
 
-- Corrected TM Descriptions
 - Trainer Pokemon Through Gym 2
 - Water Encounters Through Gym 2
 - Tutor Houses
@@ -12,12 +11,7 @@
 - Evolution Tweaks
 - Tutor Move Compatibility
 - Level-Up Learnsets
-- TM Learnsets
 - Move Edits
-
-## ASM/Hex Work
-
-- Direct Tutor Set Editing
 
 ## Sprite Work
 
